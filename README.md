@@ -8,7 +8,8 @@ This webpage is very similiar to the older versions of Netflix back when it was 
 ### Heading
 The heading section has a fixed header and a background image of the newest movie.
 
-![Annaflix1](https://user-images.githubusercontent.com/94570140/152618180-728ef8dc-ca3d-4497-970c-e0d49feee804.png)
+![Annaflix1](https://user-images.githubusercontent.com/94570140/152618653-07e088a7-49ba-4224-bd32-403135e8bf0a.png)
+
 
 
 ### Main body
